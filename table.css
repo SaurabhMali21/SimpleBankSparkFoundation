@@ -1,0 +1,36 @@
+*{
+	padding: 0 !important;
+	margin: 0 !important;
+	box-sizing: border-box !important;
+	font-family: sans-serif !important;
+}
+h2{
+	font-size: 40px !important;
+}
+table{
+	letter-spacing: 1.2px !important;
+}
+td{
+	text-align: center !important;
+}
+button{
+	border:none !important;
+	background: #f0b616 !important;
+    transition: 1s !important;
+}
+@media only screen and (orientation: landscape){
+	*{
+		letter-spacing: 1px !important;
+	}
+}
+
+.btn {
+    cursor: pointer;
+    border: 1px transparent;
+    background-color: transparent;
+    height: 30px;
+    width: 100px;
+    color: #3498db;
+    font-size: 1.2em;
+    display: inline;
+}

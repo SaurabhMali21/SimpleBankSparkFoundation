@@ -1,0 +1,10 @@
+.btn {
+    cursor: pointer;
+    border: 1px transparent;
+    background-color: transparent;
+    height: 30px;
+    width: 100px;
+    color: #3498db;
+    font-size: 1.2em;
+    display: inline;
+}
